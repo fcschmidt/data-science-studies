@@ -13,6 +13,11 @@ Passando por cada uma de suas fases, realizando exercicios e pequenos projetos, 
 #### Progress Bar Reference
 [![Progress](https://img.shields.io/badge/Progress-0%25-red.svg?style=flat)]() [![Progress](https://img.shields.io/badge/Progress-20%25-orange.svg?style=flat)]() [![Progress](https://img.shields.io/badge/Progress-40%25-yellow.svg?style=flat)]() [![Progress](https://img.shields.io/badge/Progress-60%25-green.svg?style=flat)]() [![Progress](https://img.shields.io/badge/Progress-80%25-blue.svg?style=flat)]() [![Progress](https://img.shields.io/badge/Completed-100%25-lightgrey.svg?style=flat)]()
 
+###### Others references
+- :x: = uninitialized (*não inicializado*)
+- :o: = initialized (*inicializado*)
+- :heavy_check_mark: = complete (*completo*)
+
 ## Content
 
 #### [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) [![Progress](https://img.shields.io/badge/Progress-0%25-red.svg?style=flat)]()
@@ -33,9 +38,9 @@ Passando por cada uma de suas fases, realizando exercicios e pequenos projetos, 
 >*Additional contents for studies*.
 
 #### Additional R Courses
-- [Data Analysis R](https://www.udacity.com/course/data-analysis-with-r--ud651)
-- [Statical Learning](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
-- [Using R](http://www.statistics.com/r-courses/)
+- [Data Analysis R](https://www.udacity.com/course/data-analysis-with-r--ud651) :x:
+- [Statical Learning](https://lagunita.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about) :x:
+- [Using R](http://www.statistics.com/r-courses/) :x:
 
 
 #### Book reference :books:
