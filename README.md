@@ -17,16 +17,16 @@ Passando por cada uma de suas fases, realizando exercicios e pequenos projetos, 
 
 #### [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) [![Progress](https://img.shields.io/badge/Progress-0%25-red.svg?style=flat)]()
 
-- Course 1 - [The Data Scientist's Toolbox](https://class.coursera.org/datascitoolbox-034)
-- Course 2 - [R Programming](https://www.coursera.org/course/rprog)
-- Course 3 - [Getting and Cleanning Data](https://www.coursera.org/course/getdata)
-- Course 4 - [Exploratory Data Analysis](https://www.coursera.org/course/exdata)
-- Course 5 - [Reproducible Research](https://www.coursera.org/course/repdata)
-- Course 6 - [Statistical Inference](https://www.coursera.org/course/statinference)
-- Course 7 - [Regression Models](https://www.coursera.org/course/regmods)
-- Course 8 - [Pratical Machine Learning](https://www.coursera.org/course/predmachlearn)
-- Course 9 - [Developing Data Products](https://www.coursera.org/course/devdataprod)
-- Course 10 - [Data Science Capstone](https://www.coursera.org/course/dsscapstone)
+- Course 1 - [The Data Scientist's Toolbox](https://class.coursera.org/datascitoolbox-034) :x:
+- Course 2 - [R Programming](https://www.coursera.org/course/rprog) :x:
+- Course 3 - [Getting and Cleanning Data](https://www.coursera.org/course/getdata) :x:
+- Course 4 - [Exploratory Data Analysis](https://www.coursera.org/course/exdata) :x:
+- Course 5 - [Reproducible Research](https://www.coursera.org/course/repdata) :x:
+- Course 6 - [Statistical Inference](https://www.coursera.org/course/statinference) :x:
+- Course 7 - [Regression Models](https://www.coursera.org/course/regmods) :x:
+- Course 8 - [Pratical Machine Learning](https://www.coursera.org/course/predmachlearn) :x:
+- Course 9 - [Developing Data Products](https://www.coursera.org/course/devdataprod) :x:
+- Course 10 - [Data Science Capstone](https://www.coursera.org/course/dsscapstone) :x:
 
 
 ## Additional Contents
