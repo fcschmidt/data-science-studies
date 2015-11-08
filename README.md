@@ -13,7 +13,7 @@ Passando por cada uma de suas fases, realizando exercicios e pequenos projetos, 
 #### Progress Bar Reference
 [![Progress](https://img.shields.io/badge/Progress-0%25-red.svg?style=flat)]() [![Progress](https://img.shields.io/badge/Progress-20%25-orange.svg?style=flat)]() [![Progress](https://img.shields.io/badge/Progress-40%25-yellow.svg?style=flat)]() [![Progress](https://img.shields.io/badge/Progress-60%25-green.svg?style=flat)]() [![Progress](https://img.shields.io/badge/Progress-80%25-blue.svg?style=flat)]() [![Progress](https://img.shields.io/badge/Completed-100%25-lightgrey.svg?style=flat)]()
 
-###### Others references
+###### Legend reference
 - :x: = uninitialized (*não inicializado*)
 - :o: = initialized (*inicializado*)
 - :heavy_check_mark: = complete (*completo*)
