@@ -20,10 +20,10 @@ Passando por cada uma de suas fases, realizando exercicios e pequenos projetos, 
 
 ## Content
 
-#### [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) [![Progress](https://img.shields.io/badge/Progress-0%25-red.svg?style=flat)]()
+#### [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) [![Progress](https://img.shields.io/badge/Progress-5%25-red.svg?style=flat)]()
 
-- Course 1 - [The Data Scientist's Toolbox](https://class.coursera.org/datascitoolbox-034) :o:
-- Course 2 - [R Programming](https://www.coursera.org/course/rprog) :x:
+- Course 1 - [The Data Scientist's Toolbox](https://class.coursera.org/datascitoolbox-034) :heavy_check_mark:
+- Course 2 - [R Programming](https://www.coursera.org/course/rprog) :o:
 - Course 3 - [Getting and Cleanning Data](https://www.coursera.org/course/getdata) :x:
 - Course 4 - [Exploratory Data Analysis](https://www.coursera.org/course/exdata) :x:
 - Course 5 - [Reproducible Research](https://www.coursera.org/course/repdata) :x:
